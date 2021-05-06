@@ -22,9 +22,10 @@ Rainmeter is a way to display customizable skins on your desktop, you can find p
 6. Right click on the skins you do not want and select **Unload Skin**
 7. **OPTIONAL:** Right click on the skins you put in a good position, and hover over Settings and make sure Draggable is **NOT SELECTED**
 
-## NeXuS Dock Icons
+## NeXuS Dock Icons (OPTIONAL)
 These are entirely optional, but I have them for file explorer and control panel
 To install:
-1. Put the downloaded icons in a location you like
-2. Right click on the corresponding shortcut on NeXuS, and select Dock Entry Properties
-3. From there, select Change Icon, and navigate to the corresponding Icon
+1. [Download the icons](icons/)
+2. Put the downloaded icons in a location you like
+3. Right click on the corresponding shortcut on NeXuS, and select Dock Entry Properties
+4. From there, select Change Icon, and navigate to the corresponding Icon
