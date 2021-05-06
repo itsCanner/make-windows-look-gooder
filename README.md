@@ -11,6 +11,7 @@ Nexus dock is a small minimal dock that helps make your desktop look cleaner wit
 2. [Download the settings](wsbackup.wbk)
 3. Run NeXuS, open up Preferences > Advanced > Restore
 4. Make sure to select **wsbackup.wbk**
+5. To put shortcuts on the dock, just drag and drop a corresponding shortcut onto the dock
 
 ## Rainmeter
 Rainmeter is a way to display customizable skins on your desktop, you can find plenty of them online by searching the internet
